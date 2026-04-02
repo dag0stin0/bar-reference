@@ -6,9 +6,11 @@ import os
 import glob
 
 def build():
-    content_dir = os.path.join(os.path.dirname(__file__), 'content')
-    out_dir = os.path.join(os.path.dirname(__file__), '_site')
+    root = os.path.dirname(os.path.abspath(__file__))
+    content_dir = os.path.join(root, 'content')
+    out_dir = os.path.join(root, 'public')
     os.makedirs(out_dir, exist_ok=True)
+    os.makedirs(os.path.join(out_dir, 'admin'), exist_ok=True)
 
     data = {}
 
@@ -26,20 +28,13 @@ def build():
 
     print(f"Built data.json: {len(cocktails)} cocktails")
 
-    # Copy static files to _site
+    # Copy static files to public/
     import shutil
-    static_files = ['index.html', 'admin']
-    for item in static_files:
-        src = os.path.join(os.path.dirname(__file__), item)
-        dst = os.path.join(out_dir, item)
-        if os.path.isdir(src):
-            if os.path.exists(dst):
-                shutil.rmtree(dst)
-            shutil.copytree(src, dst)
-        elif os.path.isfile(src):
-            shutil.copy2(src, dst)
+    shutil.copy2(os.path.join(root, 'index.html'), os.path.join(out_dir, 'index.html'))
+    shutil.copy2(os.path.join(root, 'admin', 'index.html'), os.path.join(out_dir, 'admin', 'index.html'))
+    shutil.copy2(os.path.join(root, 'admin', 'config.yml'), os.path.join(out_dir, 'admin', 'config.yml'))
 
-    print("Copied static files to _site/")
+    print("Copied static files to public/")
 
 if __name__ == '__main__':
     build()

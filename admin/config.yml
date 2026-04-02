@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: OWNER/REPO_NAME
+  repo: dag0stin0/bar-reference
   branch: main
   base_url: https://YOUR_SITE.vercel.app
   auth_endpoint: api/auth
