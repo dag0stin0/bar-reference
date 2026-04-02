@@ -1,0 +1,42 @@
+{
+  "id": "mai-tai",
+  "name": "Mai Tai",
+  "spirit_base": "rum",
+  "era": "1944",
+  "glass": "rocks_or_tiki",
+  "ice": "crushed",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Aged Jamaican rum"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Orange cura\u00e7ao"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Orgeat syrup"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Fresh lime juice"
+      }
+    ],
+    "method_detail": "Shake with crushed ice. Pour unstrained into glass. Float a dark rum on top if desired."
+  },
+  "garnish": "Mint sprig, lime shell",
+  "history": "Trader Vic (Victor Bergeron) created the Mai Tai in 1944 at his Oakland, CA restaurant. He poured two Jamaican rums from the 1930s vintage and said 'Mai Tai \u2014 Roa Ae!' which in Tahitian means 'out of this world \u2014 the best.' The recipe has been bastardized over decades into a red sugar bomb; the original is refined and rum-focused. Donn Beach (Don the Beachcomber) disputed credit but the Bergeron version is generally accepted.",
+  "tags": [
+    "shaken",
+    "tiki",
+    "rum",
+    "citrus"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "old-fashioned",
+  "name": "Old Fashioned",
+  "spirit_base": "whiskey",
+  "era": "c. 1880",
+  "glass": "rocks",
+  "ice": "big_rock",
+  "method": "build_stir",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Bourbon or rye"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "Sugar or simple syrup"
+      },
+      {
+        "amount": "2-3 dashes",
+        "ingredient": "Angostura bitters"
+      },
+      {
+        "amount": "Splash",
+        "ingredient": "Water"
+      }
+    ],
+    "method_detail": "Add sugar, bitters, and water to rocks glass. Dissolve sugar. Add a large rock. Pour whiskey over. Stir gently. Express orange peel."
+  },
+  "garnish": "Expressed orange peel",
+  "history": "The 'Improved' cocktail craze of the 1870s added liqueurs and absinthe to the basic cocktail (spirit, sugar, water, bitters). Purists ordered their drinks 'the old-fashioned way' \u2014 thus the name. It was first explicitly named in print in the 1880s. The most important thing: don't muddle fruit in it. The cherry-and-orange Wisconsin Old Fashioned is a regional variant, not the classic.",
+  "tags": [
+    "built",
+    "spirit-forward",
+    "classic",
+    "bitters"
+  ]
+}

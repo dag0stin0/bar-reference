@@ -1,0 +1,42 @@
+{
+  "id": "corpse-reviver-2",
+  "name": "Corpse Reviver #2",
+  "spirit_base": "gin",
+  "era": "c. 1930",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Cointreau"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Lillet Blanc or Cocchi Americano"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "Rinse",
+        "ingredient": "Absinthe"
+      }
+    ],
+    "method_detail": "Rinse chilled coupe with absinthe. Shake remaining ingredients with ice. Double strain into rinsed glass."
+  },
+  "garnish": "Expressed lemon peel",
+  "history": "Harry Craddock published both Corpse Revivers in the 'Savoy Cocktail Book' (1930) as hangover cures \u2014 hence the name. He added the famous warning: 'four of these taken in swift succession will unrevive the corpse again.' It's an equal-parts cocktail with an absinthe rinse \u2014 unusual, complex, and addictive. The #1 is a brandy-calvados build; the #2 is the gin version that's become the classic.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "equal-parts",
+    "absinthe-rinse"
+  ]
+}

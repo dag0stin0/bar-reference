@@ -1,0 +1,37 @@
+{
+  "id": "jasmine",
+  "name": "Jasmine",
+  "spirit_base": "gin",
+  "era": "1990s",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Campari"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Cointreau"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Lemon twist",
+  "history": "Created by Paul Harrington at Townhouse Bar in Emeryville, CA in the 1990s. Published in his cocktail column. It's a Prohibition-esque cocktail that bridges gin sours and Negroni territory \u2014 bitter (Campari), orange (Cointreau), citrus, and gin in perfect proportion.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "bitter"
+  ]
+}

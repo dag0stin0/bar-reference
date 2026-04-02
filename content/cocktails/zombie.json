@@ -1,0 +1,58 @@
+{
+  "id": "zombie",
+  "name": "Zombie",
+  "spirit_base": "rum",
+  "era": "1934",
+  "glass": "tiki",
+  "ice": "crushed",
+  "method": "blended_or_shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Aged Jamaican rum"
+      },
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Puerto Rican dark rum"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Overproof Demerara rum (151)"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Falernum"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh grapefruit juice"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "Grenadine"
+      },
+      {
+        "amount": "6 drops",
+        "ingredient": "Pernod absinthe"
+      },
+      {
+        "amount": "1 dash",
+        "ingredient": "Angostura bitters"
+      }
+    ],
+    "method_detail": "Blend with crushed ice or shake hard. Pour unstrained into tiki mug or tall glass."
+  },
+  "garnish": "Mint bouquet, lime shell, cherry, umbrella",
+  "history": "Donn Beach (Don the Beachcomber) created the Zombie in 1934 at his Hollywood bar. Legend says he gave it to a hungover businessman, who returned days later saying it had turned him into a zombie for three days. Beach limited guests to two per sitting \u2014 a limit still enforced at some bars. The original recipe was kept secret for decades and was finally decoded from Beach's coded recipe books by Jeff 'Beachbum' Berry.",
+  "tags": [
+    "shaken",
+    "tiki",
+    "rum",
+    "strong"
+  ]
+}

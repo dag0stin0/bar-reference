@@ -1,0 +1,178 @@
+backend:
+  name: github
+  repo: OWNER/REPO_NAME
+  branch: main
+  base_url: https://YOUR_SITE.vercel.app
+  auth_endpoint: api/auth
+
+publish_mode: editorial_workflow
+
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "cocktails"
+    label: "Cocktails"
+    folder: "content/cocktails"
+    create: true
+    delete: true
+    extension: "json"
+    format: "json"
+    identifier_field: "name"
+    slug: "{{slug}}"
+    summary: "{{name}} — {{spirit_base}} ({{glass}})"
+    fields:
+      - label: "ID"
+        name: "id"
+        widget: "string"
+        hint: "URL-friendly identifier (e.g. 'whiskey-sour')"
+
+      - label: "Name"
+        name: "name"
+        widget: "string"
+
+      - label: "Spirit Base"
+        name: "spirit_base"
+        widget: "select"
+        options:
+          - { label: "Gin", value: "gin" }
+          - { label: "Vodka", value: "vodka" }
+          - { label: "Whiskey", value: "whiskey" }
+          - { label: "Rum", value: "rum" }
+          - { label: "Tequila", value: "tequila" }
+          - { label: "Brandy", value: "brandy" }
+          - { label: "Other", value: "other" }
+
+      - label: "Era"
+        name: "era"
+        widget: "string"
+        hint: "e.g. 'c. 1928', '1941'"
+
+      - label: "Glass"
+        name: "glass"
+        widget: "select"
+        options:
+          - { label: "Coupe", value: "coupe" }
+          - { label: "Rocks", value: "rocks" }
+          - { label: "Collins", value: "collins" }
+          - { label: "Highball", value: "highball" }
+          - { label: "Copper Mug", value: "copper_mug" }
+          - { label: "Flute", value: "flute" }
+          - { label: "Hurricane", value: "hurricane" }
+          - { label: "Julep Tin", value: "julep_tin" }
+          - { label: "Tiki", value: "tiki" }
+          - { label: "Wine", value: "wine" }
+          - { label: "Coupe or Martini", value: "coupe_or_martini" }
+          - { label: "Coupe or Rocks", value: "coupe_or_rocks" }
+          - { label: "Coupe or Snifter", value: "coupe_or_snifter" }
+          - { label: "Rocks or Coupe", value: "rocks_or_coupe" }
+          - { label: "Rocks or Tiki", value: "rocks_or_tiki" }
+
+      - label: "Ice"
+        name: "ice"
+        widget: "select"
+        options:
+          - { label: "None", value: "none" }
+          - { label: "Rocks", value: "rocks" }
+          - { label: "Big Rock", value: "big_rock" }
+          - { label: "Crushed", value: "crushed" }
+          - { label: "None or Big Rock", value: "none_or_big_rock" }
+          - { label: "None or Crushed", value: "none_or_crushed" }
+          - { label: "Rocks or None", value: "rocks_or_none" }
+
+      - label: "Method"
+        name: "method"
+        widget: "select"
+        options:
+          - { label: "Shaken", value: "shaken" }
+          - { label: "Stirred", value: "stirred" }
+          - { label: "Built", value: "built" }
+          - { label: "Build & Stir", value: "build_stir" }
+          - { label: "Shaken & Built", value: "shaken_and_built" }
+          - { label: "Shaken or Stirred", value: "shaken_or_stirred" }
+          - { label: "Blended or Shaken", value: "blended_or_shaken" }
+
+      - label: "Garnish"
+        name: "garnish"
+        widget: "string"
+
+      - label: "Ingredients"
+        name: "spec"
+        widget: "object"
+        fields:
+          - label: "Ingredients"
+            name: "ingredients"
+            widget: "list"
+            fields:
+              - { label: "Amount", name: "amount", widget: "string", hint: "e.g. '2 oz', '3 dashes', 'Top'" }
+              - { label: "Ingredient", name: "ingredient", widget: "string" }
+          - label: "Build Instructions"
+            name: "method_detail"
+            widget: "text"
+
+      - label: "History"
+        name: "history"
+        widget: "text"
+        required: false
+
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        options:
+          - absinthe-rinse
+          - amaro
+          - aperitivo
+          - apple-brandy
+          - bitter
+          - bitters
+          - boston
+          - bourbon
+          - built
+          - citrus
+          - classic
+          - coffee
+          - cognac
+          - cola
+          - colonial
+          - complex
+          - cream
+          - crushed-ice
+          - digestif
+          - egg
+          - equal-parts
+          - fizz
+          - floral
+          - frothy
+          - fruit
+          - ginger
+          - grenadine
+          - herbal
+          - historic
+          - honey
+          - low-abv
+          - manhattan-family
+          - mezcal
+          - mint
+          - modern
+          - new-orleans
+          - no-ice
+          - no-sugar
+          - pisco
+          - prohibition
+          - rum
+          - scotch
+          - shaken
+          - sour
+          - sparkling
+          - spirit-forward
+          - stirred
+          - strong
+          - sweet
+          - tall
+          - tequila
+          - tiki
+          - tropical
+          - vodka
+          - whiskey
+          - wine-float

@@ -1,0 +1,33 @@
+{
+  "id": "boulevardier",
+  "name": "Boulevardier",
+  "spirit_base": "whiskey",
+  "era": "1927",
+  "glass": "coupe_or_rocks",
+  "ice": "none_or_big_rock",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Bourbon or rye"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Sweet vermouth"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Campari"
+      }
+    ],
+    "method_detail": "Stir with ice until well-chilled. Strain into chilled coupe or over large rock in rocks glass."
+  },
+  "garnish": "Orange peel or cherry",
+  "history": "Erskine Gwynne, an American expatriate in Paris, published the Boulevardier in his Paris literary magazine 'The Boulevardier' in 1927. It's essentially a Negroni with bourbon replacing gin \u2014 a natural riff given the era's preference for whiskey. The name refers to a fashionable man-about-town. Harry McElhone included it in 'Barflies and Cocktails' the same year.",
+  "tags": [
+    "stirred",
+    "bitter",
+    "whiskey"
+  ]
+}

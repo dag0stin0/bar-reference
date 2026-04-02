@@ -1,0 +1,37 @@
+{
+  "id": "toronto",
+  "name": "Toronto",
+  "spirit_base": "whiskey",
+  "era": "c. 1922",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Canadian or rye whisky"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Fernet-Branca"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "1 dash",
+        "ingredient": "Angostura bitters"
+      }
+    ],
+    "method_detail": "Stir with ice until well-chilled. Strain into chilled coupe."
+  },
+  "garnish": "Orange slice",
+  "history": "From Robert Vermeire's 'Cocktails: How to Mix Them' (1922). The Toronto puts Fernet-Branca in a starring role alongside whisky, which was unusual. It's the cocktail that probably introduced many bartenders to the idea of using amaro as a modifier in small amounts to add complexity. Sometimes called the 'bartender's handshake' variant when Fernet is served as a shot.",
+  "tags": [
+    "stirred",
+    "spirit-forward",
+    "amaro"
+  ]
+}

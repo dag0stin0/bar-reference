@@ -1,0 +1,38 @@
+{
+  "id": "ward-8",
+  "name": "Ward 8",
+  "spirit_base": "whiskey",
+  "era": "1898",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Rye or bourbon"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh orange juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Grenadine"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Orange slice, cherry",
+  "history": "Created in 1898 at Locke-Ober restaurant in Boston to celebrate the election victory of Martin Lomasney, the political boss of Boston's Ward 8. It's a whiskey sour with grenadine and orange juice \u2014 sweeter and more forgiving than a strict whiskey sour, and visually attractive with its pink hue. Boston's official civic cocktail.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "whiskey",
+    "boston"
+  ]
+}

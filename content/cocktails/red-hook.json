@@ -1,0 +1,34 @@
+{
+  "id": "red-hook",
+  "name": "Red Hook",
+  "spirit_base": "whiskey",
+  "era": "2003",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Rye whiskey"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Punt e Mes (or other sweet vermouth)"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Maraschino liqueur"
+      }
+    ],
+    "method_detail": "Stir with ice until well-chilled. Strain into chilled coupe."
+  },
+  "garnish": "Cherry",
+  "history": "Vincenzo Errico created the Red Hook at Milk & Honey in New York around 2003, named for the Brooklyn neighborhood. It's a Brooklyn variation \u2014 same ingredients, different ratios \u2014 and part of the 'Greenpoint,' 'Carroll Gardens,' and 'Bensonhurst' family of Brooklyn-neighborhood cocktails. The Punt e Mes adds a bitter edge to the maraschino sweetness.",
+  "tags": [
+    "stirred",
+    "spirit-forward",
+    "whiskey",
+    "modern"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pisco-sour",
+  "name": "Pisco Sour",
+  "spirit_base": "brandy",
+  "era": "c. 1920s",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Pisco (Peruvian)"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Egg white"
+      },
+      {
+        "amount": "2 dashes",
+        "ingredient": "Angostura bitters"
+      }
+    ],
+    "method_detail": "Dry shake all except bitters. Add ice, shake hard. Double strain into chilled coupe. Add bitters drops on foam."
+  },
+  "garnish": "Angostura bitters drops on foam",
+  "history": "Victor Vaughen Morris, an American bartender who moved to Lima, Peru, invented the Pisco Sour at Morris' Bar in the 1920s. He added egg white and bitters, adapting classic sour technique to pisco. It became the national cocktail of Peru and spawned a Pisco War with Chile (who also claim the spirit). It's one of the great egg cocktails \u2014 silky, creamy, and very drinkable.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "egg",
+    "pisco"
+  ]
+}

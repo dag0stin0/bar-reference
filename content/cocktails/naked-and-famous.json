@@ -1,0 +1,38 @@
+{
+  "id": "naked-and-famous",
+  "name": "Naked and Famous",
+  "spirit_base": "other",
+  "era": "2011",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Mezcal"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Aperol"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Yellow Chartreuse"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lime juice"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "None",
+  "history": "Joaqu\u00edn Sim\u00f3 created the Naked and Famous at Death & Co in New York in 2011. Another equal-parts descendant of the Last Word, this one replacing gin with mezcal and Chartreuse green with Chartreuse yellow (milder). The smoke of mezcal against Aperol's bitterness and Chartreuse's herbality \u2014 it works immediately. A benchmark of the modern craft cocktail canon.",
+  "tags": [
+    "shaken",
+    "equal-parts",
+    "mezcal",
+    "modern"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pegu-club",
+  "name": "Pegu Club",
+  "spirit_base": "gin",
+  "era": "c. 1920s",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Orange cura\u00e7ao or Cointreau"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "1 dash",
+        "ingredient": "Angostura bitters"
+      },
+      {
+        "amount": "1 dash",
+        "ingredient": "Orange bitters"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Lime wheel",
+  "history": "From the Pegu Club in Rangoon, Burma (now Myanmar), which served British officers during colonial times. The drink gained fame after Harry Craddock included it in the 'Savoy Cocktail Book' (1930). Audrey Saunders named her seminal NYC cocktail bar after this drink in 2005.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "colonial"
+  ]
+}

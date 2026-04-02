@@ -1,0 +1,34 @@
+{
+  "id": "aperol-spritz",
+  "name": "Aperol Spritz",
+  "spirit_base": "other",
+  "era": "1919 / modern 2003",
+  "glass": "wine",
+  "ice": "rocks",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "3 oz",
+        "ingredient": "Prosecco"
+      },
+      {
+        "amount": "2 oz",
+        "ingredient": "Aperol"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Club soda"
+      }
+    ],
+    "method_detail": "Fill large wine glass with ice. Add prosecco, then Aperol, then splash of soda. Stir briefly."
+  },
+  "garnish": "Orange slice",
+  "history": "The Spritz tradition in the Veneto region of Italy dates to the 1800s when Austrian soldiers stationed there diluted local wine with water (spritzen = to splash). Aperol launched in 1919, and Venetians began adding it to the Prosecco spritz. The modern Aperol Spritz was heavily marketed by Campari Group from the 2000s onward, becoming one of the most-ordered cocktails in Europe by 2013.",
+  "tags": [
+    "built",
+    "sparkling",
+    "aperitivo",
+    "low-abv"
+  ]
+}

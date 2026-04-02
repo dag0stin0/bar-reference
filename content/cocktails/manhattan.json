@@ -1,0 +1,33 @@
+{
+  "id": "manhattan",
+  "name": "Manhattan",
+  "spirit_base": "whiskey",
+  "era": "c. 1880",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Rye or bourbon"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Sweet vermouth"
+      },
+      {
+        "amount": "2 dashes",
+        "ingredient": "Angostura bitters"
+      }
+    ],
+    "method_detail": "Stir with ice ~40 rotations until well-chilled. Strain into chilled coupe. Garnish with expressed orange peel or cherry."
+  },
+  "garnish": "Expressed orange peel or maraschino cherry",
+  "history": "The Manhattan is one of the six basic drinks in David Embury's 'Fine Art of Mixing Drinks' and one of the most important cocktails in history. The origin myth involves a banquet at the Manhattan Club for Lady Randolph Churchill (Winston's mother) \u2014 this is almost certainly false, as she was abroad at the time. It likely emerged from the cocktail culture of 1880s Manhattan. The rye vs. bourbon debate is regional: rye gives it spice and dryness, bourbon sweetness. Both are correct.",
+  "tags": [
+    "stirred",
+    "spirit-forward",
+    "classic"
+  ]
+}

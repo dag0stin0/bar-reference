@@ -1,0 +1,41 @@
+{
+  "id": "hotel-nacional",
+  "name": "Hotel Nacional",
+  "spirit_base": "rum",
+  "era": "1930s",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Aged rum"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Cognac"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Apricot liqueur"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh pineapple juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Lime wheel",
+  "history": "Named for the legendary Hotel Nacional in Havana, Cuba, where it was served in the 1930s. The hotel hosted luminaries from Winston Churchill to Frank Sinatra to Meyer Lansky. The combination of rum, cognac, and apricot liqueur with tropical fruit is entirely of its era \u2014 complex, tropical, and elegant.",
+  "tags": [
+    "shaken",
+    "rum",
+    "tropical"
+  ]
+}

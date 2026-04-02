@@ -1,0 +1,38 @@
+{
+  "id": "bramble",
+  "name": "Bramble",
+  "spirit_base": "gin",
+  "era": "1984",
+  "glass": "rocks",
+  "ice": "crushed",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Cr\u00e8me de m\u00fbre (blackberry liqueur)"
+      }
+    ],
+    "method_detail": "Shake gin, lemon, and syrup with ice. Strain into rocks glass over crushed ice. Drizzle cr\u00e8me de m\u00fbre over the top \u2014 it bleeds through the ice."
+  },
+  "garnish": "Blackberry, lemon slice",
+  "history": "Dick Bradsell created the Bramble at Fred's Club in London in 1984. He wanted to create a quintessentially British cocktail and thought of blackberries he picked as a child on the Isle of Wight. It's a relatively modern classic \u2014 less than 40 years old \u2014 but it's been adopted worldwide. The visual of the blackberry liqueur bleeding through crushed ice is part of its charm.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "fruit",
+    "crushed-ice"
+  ]
+}

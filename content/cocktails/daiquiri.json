@@ -1,0 +1,34 @@
+{
+  "id": "daiquiri",
+  "name": "Daiquiri",
+  "spirit_base": "rum",
+  "era": "c. 1898",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "White rum"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      }
+    ],
+    "method_detail": "Shake hard with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Lime wheel",
+  "history": "Named for the town of Daiquiri near Santiago de Cuba. An American mining engineer named Jennings Cox is credited with mixing lime, sugar, and local rum when he ran out of gin for guests around 1898. Admiral Lucius Johnson brought the recipe to the Army and Navy Club in Washington D.C. Ernest Hemingway was famously fond of his Daiquiris at La Floridita in Havana \u2014 he requested them without sugar and with a double measure of rum (the Hemingway or Papa Doble variant).",
+  "tags": [
+    "shaken",
+    "citrus",
+    "classic",
+    "rum"
+  ]
+}

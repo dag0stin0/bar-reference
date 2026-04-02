@@ -1,0 +1,38 @@
+{
+  "id": "tom-collins",
+  "name": "Tom Collins",
+  "spirit_base": "gin",
+  "era": "c. 1876",
+  "glass": "collins",
+  "ice": "rocks",
+  "method": "shaken_and_built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Old Tom gin (or London Dry)"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Club soda"
+      }
+    ],
+    "method_detail": "Shake gin, lemon, and syrup with ice. Strain into ice-filled Collins glass. Top with club soda. Stir gently."
+  },
+  "garnish": "Lemon wheel, cherry",
+  "history": "One of the great tall drinks. Jerry Thomas published a recipe in his 1876 bar guide. 'Tom' refers to Old Tom gin, a slightly sweeter style popular in the 19th century before London Dry became dominant. There was also a popular 1870s American prank \u2014 convincing someone that a man named 'Tom Collins' had been talking trash about them in another bar, sending them on a wild chase.",
+  "tags": [
+    "built",
+    "tall",
+    "citrus",
+    "fizz"
+  ]
+}

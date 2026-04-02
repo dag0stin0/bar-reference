@@ -1,0 +1,33 @@
+{
+  "id": "rob-roy",
+  "name": "Rob Roy",
+  "spirit_base": "whiskey",
+  "era": "1894",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Scotch whisky"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Sweet vermouth"
+      },
+      {
+        "amount": "2 dashes",
+        "ingredient": "Angostura bitters"
+      }
+    ],
+    "method_detail": "Stir with ice until well-chilled. Strain into chilled coupe."
+  },
+  "garnish": "Maraschino cherry",
+  "history": "A Manhattan made with Scotch. Named for Robert Roy MacGregor, a Scottish folk hero, on the occasion of an operetta about him opening at the Herald Square Theatre in New York in 1894. The drink commemorated the production. It's a perfect example of how cocktail names capture cultural moments.",
+  "tags": [
+    "stirred",
+    "spirit-forward",
+    "scotch"
+  ]
+}

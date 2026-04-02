@@ -1,0 +1,29 @@
+{
+  "id": "martini",
+  "name": "Martini",
+  "spirit_base": "gin",
+  "era": "c. 1880s\u20131900s",
+  "glass": "coupe_or_martini",
+  "ice": "none",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2.5 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Dry vermouth"
+      }
+    ],
+    "method_detail": "Stir with ice ~40 rotations until well-chilled and diluted. Strain into chilled coupe or martini glass. Express lemon peel, add as garnish \u2014 or swap for olives."
+  },
+  "garnish": "Lemon twist or olives",
+  "history": "The Martini is perhaps the most debated cocktail in history. Its lineage runs through the Martinez (sweet vermouth, gin, maraschino) through various refinements. By the early 20th century the dry Martini \u2014 gin and dry vermouth \u2014 emerged. Ratios have shifted dramatically: Victorian Martinis were 1:1 gin to vermouth; by mid-century the vermouth was practically a rinse. Winston Churchill supposedly just glanced at the vermouth bottle across the room. The correct ratio is a matter of religious conviction.",
+  "tags": [
+    "stirred",
+    "classic",
+    "spirit-forward"
+  ]
+}

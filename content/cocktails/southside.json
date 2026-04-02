@@ -1,0 +1,37 @@
+{
+  "id": "southside",
+  "name": "Southside",
+  "spirit_base": "gin",
+  "era": "c. 1910s",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "6-8 leaves",
+        "ingredient": "Fresh mint"
+      }
+    ],
+    "method_detail": "Muddle mint gently with syrup. Add gin and lime. Shake hard with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Mint sprig",
+  "history": "A gin Mojito served up \u2014 that's essentially what the Southside is. Contested origins: some attribute it to the 21 Club in New York; others to Prohibition-era Chicago's South Side gang members who used mint and lime to mask the taste of bathtub gin. Either way, it's a classic gin sour with mint, served up.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "mint"
+  ]
+}

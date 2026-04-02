@@ -1,0 +1,42 @@
+{
+  "id": "clover-club",
+  "name": "Clover Club",
+  "spirit_base": "gin",
+  "era": "c. 1890s",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Egg white"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Raspberry syrup or muddled raspberries"
+      }
+    ],
+    "method_detail": "Dry shake first. Add ice and shake again. Double strain into chilled coupe."
+  },
+  "garnish": "Raspberries",
+  "history": "Named for the Clover Club, a Philadelphia gentlemen's literary club that met at the Bellevue-Stratford Hotel before Prohibition. The cocktail predates Prohibition and appears in pre-1920 bar manuals. It fell out of fashion for decades \u2014 egg drinks did in general \u2014 before Julie Reiner revived it with her famous NYC bar of the same name.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "egg",
+    "frothy"
+  ]
+}

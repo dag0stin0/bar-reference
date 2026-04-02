@@ -1,0 +1,43 @@
+{
+  "id": "mojito",
+  "name": "Mojito",
+  "spirit_base": "rum",
+  "era": "c. 16th century / modern 1930s",
+  "glass": "highball",
+  "ice": "rocks",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "White rum"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "8-10 leaves",
+        "ingredient": "Fresh mint"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Club soda"
+      }
+    ],
+    "method_detail": "Lightly muddle mint with syrup in glass (don't shred it \u2014 you want oils, not chlorophyll). Add lime, rum, and ice. Top with soda. Stir gently with bar spoon."
+  },
+  "garnish": "Mint sprig, lime wheel",
+  "history": "Cuba is the birthplace. The earliest ancestor was El Draque, a 16th-century mix of aguardiente, sugar, lime, and mint. The modern Mojito developed through the 19th and 20th centuries with lighter white rum (Bacardi became the go-to). La Bodeguita del Medio in Havana is its most famous home \u2014 Hemingway's quote 'My daiquiri at La Floridita, my mojito at La Bodeguita' is debated, but he definitely drank them.",
+  "tags": [
+    "built",
+    "tall",
+    "mint",
+    "citrus",
+    "rum"
+  ]
+}

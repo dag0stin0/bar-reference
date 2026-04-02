@@ -1,0 +1,29 @@
+{
+  "id": "dark-stinger",
+  "name": "B&B",
+  "spirit_base": "brandy",
+  "era": "c. 1930s",
+  "glass": "coupe_or_snifter",
+  "ice": "none",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Cognac or brandy"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "B\u00e9n\u00e9dictine"
+      }
+    ],
+    "method_detail": "Build in snifter or coupe. No ice needed. Serve at room temperature or slightly chilled."
+  },
+  "garnish": "None",
+  "history": "Simple and sophisticated. B\u00e9n\u00e9dictine is a French herbal liqueur made by monks of the B\u00e9n\u00e9dictine Abbey in F\u00e9camp, Normandy. The B&B \u2014 Brandy and B\u00e9n\u00e9dictine \u2014 was popular as a digestif from the 1930s onward. B\u00e9n\u00e9dictine actually manufactures a premixed B&B product, which tells you how popular the combination became.",
+  "tags": [
+    "built",
+    "digestif",
+    "cognac"
+  ]
+}

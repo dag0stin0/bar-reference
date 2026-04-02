@@ -1,0 +1,47 @@
+{
+  "id": "hurricane",
+  "name": "Hurricane",
+  "spirit_base": "rum",
+  "era": "c. 1940s",
+  "glass": "hurricane",
+  "ice": "crushed",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1 oz",
+        "ingredient": "Dark rum"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Light rum"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Passion fruit syrup or juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Orange juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Grenadine"
+      }
+    ],
+    "method_detail": "Shake with ice. Strain over crushed ice in hurricane glass."
+  },
+  "garnish": "Orange slice, cherry",
+  "history": "Pat O'Brien's Bar in New Orleans created the Hurricane as a way to use up surplus rum (whiskey was scarce during World War II). The name comes from the hurricane lamp-shaped glass. It became the iconic Bourbon Street tourist drink. The Pat O'Brien's version is much sweeter and simpler than the original recipe \u2014 a mix of passion fruit and citrus that's been bastardized into a sugar bomb in most tourist traps.",
+  "tags": [
+    "shaken",
+    "tall",
+    "rum",
+    "new-orleans",
+    "tropical"
+  ]
+}

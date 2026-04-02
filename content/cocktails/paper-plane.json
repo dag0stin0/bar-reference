@@ -1,0 +1,38 @@
+{
+  "id": "paper-plane",
+  "name": "Paper Plane",
+  "spirit_base": "whiskey",
+  "era": "2008",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Bourbon"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Aperol"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Amaro Nonino"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "None or lemon twist",
+  "history": "Sam Ross created the Paper Plane at Milk & Honey in New York in 2008, inspired by M.I.A.'s song. It's a direct descendant of the Last Word \u2014 same equal-parts structure, different ingredients. Four spirits that shouldn't work together (bourbon + Italian aperitivo + herbal amaro + citrus) that work perfectly together. It represents the modern craft cocktail movement's ability to take a historical template and create something genuinely new.",
+  "tags": [
+    "shaken",
+    "equal-parts",
+    "modern",
+    "bitter"
+  ]
+}

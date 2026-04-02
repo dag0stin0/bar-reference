@@ -1,0 +1,35 @@
+{
+  "id": "gin-rickey",
+  "name": "Gin Rickey",
+  "spirit_base": "gin",
+  "era": "c. 1883",
+  "glass": "highball",
+  "ice": "rocks",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Club soda"
+      }
+    ],
+    "method_detail": "Build in ice-filled highball glass. Add gin, squeeze and drop lime half. Top with soda. Stir briefly."
+  },
+  "garnish": "Lime half squeezed into drink",
+  "history": "Named for lobbyist Colonel Joe Rickey, a regular at Shoomaker's bar in Washington, D.C. The original was made with bourbon and rye, but gin became the standard version. It's one of the rare classic cocktails that contains no sweetener \u2014 just spirit, citrus, and soda. F. Scott Fitzgerald's characters drink them in 'The Great Gatsby.'",
+  "tags": [
+    "built",
+    "tall",
+    "citrus",
+    "fizz",
+    "no-sugar"
+  ]
+}

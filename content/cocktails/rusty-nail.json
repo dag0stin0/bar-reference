@@ -1,0 +1,29 @@
+{
+  "id": "rusty-nail",
+  "name": "Rusty Nail",
+  "spirit_base": "whiskey",
+  "era": "c. 1960s",
+  "glass": "rocks",
+  "ice": "big_rock",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Scotch whisky"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Drambuie"
+      }
+    ],
+    "method_detail": "Build in rocks glass over large ice. Stir gently."
+  },
+  "garnish": "Lemon twist",
+  "history": "The Rusty Nail gained popularity in the 1960s as the 'official' drink of the Rat Pack \u2014 Frank Sinatra and crew drank it at the Sands Hotel in Las Vegas. Drambuie is a scotch-honey-herb liqueur, and the combination with Scotch creates something that's greater than the sum of its parts: boozy, slightly sweet, herbal, and deeply warming. A perfect winter drink.",
+  "tags": [
+    "built",
+    "spirit-forward",
+    "scotch"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "paloma",
+  "name": "Paloma",
+  "spirit_base": "tequila",
+  "era": "c. 1950s",
+  "glass": "highball",
+  "ice": "rocks",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Blanco tequila"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "Pinch",
+        "ingredient": "Salt"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Grapefruit soda (Jarritos or Squirt)"
+      }
+    ],
+    "method_detail": "Salt rim optional. Build in ice-filled highball. Add tequila and lime. Top with grapefruit soda. Stir gently."
+  },
+  "garnish": "Grapefruit wedge, salt rim",
+  "history": "The Paloma (Spanish for 'dove') is arguably more popular in Mexico than the Margarita. The origin is murky \u2014 possibly created by Don Javier Delgado Corona at La Capilla in Tequila, Jalisco. The traditional Mexican version uses Squirt or Jarritos grapefruit soda; craft versions use fresh grapefruit juice and club soda. Either way it's refreshing, low-alcohol, and underrated in the U.S.",
+  "tags": [
+    "built",
+    "tall",
+    "citrus",
+    "tequila"
+  ]
+}

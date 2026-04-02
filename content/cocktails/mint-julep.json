@@ -1,0 +1,34 @@
+{
+  "id": "mint-julep",
+  "name": "Mint Julep",
+  "spirit_base": "whiskey",
+  "era": "c. 1800",
+  "glass": "julep_tin",
+  "ice": "crushed",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2.5 oz",
+        "ingredient": "Bourbon"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "8-10 leaves",
+        "ingredient": "Fresh mint"
+      }
+    ],
+    "method_detail": "Gently muddle mint with syrup in julep tin (just a few presses \u2014 bruise, don't macerate). Pack with crushed ice. Add bourbon. Stir until tin frosts. Add more ice to crown. Garnish with bouquet of mint slapped against palm for aromatics."
+  },
+  "garnish": "Bouquet of fresh mint",
+  "history": "The Mint Julep is one of the oldest American cocktails \u2014 John Davis described it as the morning drink of Virginians in 1803. It's synonymous with the Kentucky Derby, which has served them since 1938. The word 'julep' comes from the Persian 'gulab' (rosewater), via Arabic. Proper Juleps require crushed ice and a frosted tin \u2014 it's as much about the vessel and ice as the recipe.",
+  "tags": [
+    "built",
+    "mint",
+    "crushed-ice",
+    "bourbon"
+  ]
+}

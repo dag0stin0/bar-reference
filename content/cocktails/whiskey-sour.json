@@ -1,0 +1,37 @@
+{
+  "id": "whiskey-sour",
+  "name": "Whiskey Sour",
+  "spirit_base": "whiskey",
+  "era": "c. 1862",
+  "glass": "rocks_or_coupe",
+  "ice": "rocks_or_none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Bourbon or rye whiskey"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Egg white (optional, for Boston style)"
+      }
+    ],
+    "method_detail": "Dry shake if using egg white. Add ice, shake hard. Strain over fresh ice in rocks glass, or up into coupe."
+  },
+  "garnish": "Lemon wheel, cherry, Angostura bitters drops on foam",
+  "history": "One of the original cocktail categories \u2014 the sour \u2014 first published by Jerry Thomas in 1862. Sours are simply spirit + citrus + sweetener, one of the oldest templates in bartending. The Boston Sour adds egg white for a silky foam. The New York Sour floats red wine on top. The Whiskey Sour is the archetypal expression of the format.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "sour"
+  ]
+}

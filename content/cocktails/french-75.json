@@ -1,0 +1,37 @@
+{
+  "id": "french-75",
+  "name": "French 75",
+  "spirit_base": "gin",
+  "era": "c. 1915",
+  "glass": "flute",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Gin (or Cognac)"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Champagne or dry sparkling wine"
+      }
+    ],
+    "method_detail": "Shake gin, lemon, and syrup with ice. Strain into champagne flute. Top with Champagne."
+  },
+  "garnish": "Lemon twist",
+  "history": "Named for the French 75mm field gun used in World War I \u2014 the cocktail supposedly hit with the same kick. It was created at the New York Bar in Paris (later Harry's Bar) and popularized in America. The gin version is arguably more historically accurate; the Cognac version is the New Orleans style. Both are correct depending on who you ask.",
+  "tags": [
+    "shaken",
+    "sparkling",
+    "citrus"
+  ]
+}

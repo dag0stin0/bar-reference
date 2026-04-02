@@ -1,0 +1,34 @@
+{
+  "id": "tommys-margarita",
+  "name": "Tommy's Margarita",
+  "spirit_base": "tequila",
+  "era": "c. 1990",
+  "glass": "rocks",
+  "ice": "rocks",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "100% agave blanco tequila"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Agave nectar (diluted 1:1 with water)"
+      }
+    ],
+    "method_detail": "Shake hard with ice. Strain over fresh ice in rocks glass."
+  },
+  "garnish": "Lime wheel",
+  "history": "Julio Bermejo created this at Tommy's Mexican Restaurant in San Francisco around 1990. The innovation: replacing orange liqueur with agave nectar to highlight the 100% agave tequila. It's cleaner, more agave-forward, and drier. The IBA adopted it as an official cocktail. It's become the standard for how to evaluate tequila quality in a cocktail.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "tequila",
+    "modern"
+  ]
+}

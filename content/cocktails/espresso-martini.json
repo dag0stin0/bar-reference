@@ -1,0 +1,38 @@
+{
+  "id": "espresso-martini",
+  "name": "Espresso Martini",
+  "spirit_base": "vodka",
+  "era": "1983",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Vodka"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Coffee liqueur (Mr Black or Kahl\u00faa)"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Fresh espresso (hot or cold)"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Simple syrup"
+      }
+    ],
+    "method_detail": "Shake very hard with ice \u2014 the vigorous shake creates the foam. Double strain into chilled coupe."
+  },
+  "garnish": "Three espresso beans on foam",
+  "history": "Dick Bradsell created the Espresso Martini (originally 'Vodka Espresso') in 1983 at the Soho Brasserie in London. According to legend, a young supermodel asked him for something to 'wake me up and then f*** me up.' Bradsell had an espresso machine behind the bar and improvised. Three coffee beans represent health, wealth, and happiness \u2014 a nod to the Italian espresso tradition.",
+  "tags": [
+    "shaken",
+    "coffee",
+    "vodka",
+    "modern"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "stinger",
+  "name": "Stinger",
+  "spirit_base": "brandy",
+  "era": "c. 1890s",
+  "glass": "coupe_or_rocks",
+  "ice": "none_or_crushed",
+  "method": "shaken_or_stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Cognac"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "White cr\u00e8me de menthe"
+      }
+    ],
+    "method_detail": "Stir or shake with ice. Strain into chilled coupe, or over crushed ice in rocks glass."
+  },
+  "garnish": "Mint sprig",
+  "history": "The Stinger was one of the most popular 'after-dinner' cocktails in mid-20th century America \u2014 served as a digestif alongside the Grasshopper. It appears in books from the 1890s. The name refers to the menthol 'sting' of the cr\u00e8me de menthe. President Nixon and many other notable Americans drank them. It fell out of fashion in the 1970s but deserves respect as a genuinely refreshing digestif.",
+  "tags": [
+    "stirred",
+    "mint",
+    "digestif",
+    "cognac"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "jack-rose",
+  "name": "Jack Rose",
+  "spirit_base": "brandy",
+  "era": "c. 1905",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Applejack or Calvados"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon or lime juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Grenadine (real pomegranate, not maraschino cherry)"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Lemon twist",
+  "history": "Dates to the early 1900s. Various origin theories: named for gangster Bald Jack Rose who was involved in the Rosenthal murder case; named for the Jacqueminot rose (a pink variety); or named for apple jack (the spirit). Hemingway mentions it in 'The Sun Also Rises.' The pink color comes from the grenadine \u2014 use real pomegranate grenadine, not the fluorescent red syrup.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "apple-brandy",
+    "grenadine"
+  ]
+}

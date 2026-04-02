@@ -1,0 +1,33 @@
+{
+  "id": "bee-sting",
+  "name": "Alaska",
+  "spirit_base": "gin",
+  "era": "c. 1913",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin (Old Tom or London Dry)"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Yellow Chartreuse"
+      },
+      {
+        "amount": "2 dashes",
+        "ingredient": "Orange bitters"
+      }
+    ],
+    "method_detail": "Stir with ice until well-chilled. Strain into chilled coupe."
+  },
+  "garnish": "Lemon twist",
+  "history": "Published in Jacques Straub's 'Drinks' in 1913. Why it's called Alaska is unclear \u2014 some suggest the 'wild' combination of gin and Chartreuse seemed as remote as Alaska. Yellow Chartreuse (milder than green) melds with gin in a surprisingly harmonious way. It's a lesser-known gem of the pre-Prohibition era.",
+  "tags": [
+    "stirred",
+    "herbal",
+    "spirit-forward"
+  ]
+}

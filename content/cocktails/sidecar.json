@@ -1,0 +1,33 @@
+{
+  "id": "sidecar",
+  "name": "Sidecar",
+  "spirit_base": "brandy",
+  "era": "c. 1922",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Cognac"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Cointreau or orange cura\u00e7ao"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      }
+    ],
+    "method_detail": "Optional: sugar-rim the coupe half or fully. Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Orange twist, optional sugar rim",
+  "history": "Named for the motorcycle sidecar, origin contested between Paris and London. Harry MacElhone's Harry's Bar in Paris and Buck's Club in London both claim credit \u2014 it appeared in print in the early 1920s. It's essentially a Margarita with cognac instead of tequila, or a Daiquiri with cognac and orange liqueur instead of rum. The sugar rim is traditional but optional.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "cognac"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cuba-libre",
+  "name": "Cuba Libre",
+  "spirit_base": "rum",
+  "era": "c. 1900",
+  "glass": "highball",
+  "ice": "rocks",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "White or gold rum"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Cola"
+      }
+    ],
+    "method_detail": "Build in ice-filled highball. Add rum and lime. Top with cola. Stir gently."
+  },
+  "garnish": "Lime wedge",
+  "history": "'Free Cuba!' \u2014 the battle cry of Cuban independence fighters. The drink emerged around the time of the Spanish-American War (1898) when American soldiers drank rum mixed with the newly popular Coca-Cola in Havana. 'Cuba Libre' as a toast merged with the drink itself. It's more than a rum and Coke: the lime is essential, and fresh lime changes the drink entirely.",
+  "tags": [
+    "built",
+    "tall",
+    "cola",
+    "rum"
+  ]
+}

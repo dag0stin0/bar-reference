@@ -1,0 +1,34 @@
+{
+  "id": "negroni",
+  "name": "Negroni",
+  "spirit_base": "gin",
+  "era": "c. 1919",
+  "glass": "rocks",
+  "ice": "big_rock",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Campari"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Sweet vermouth"
+      }
+    ],
+    "method_detail": "Stir with ice ~30 seconds until well-chilled. Strain over large rock in rocks glass. Express orange peel over the top, add as garnish."
+  },
+  "garnish": "Orange peel",
+  "history": "Count Camillo Negroni asked bartender Fosco Scarselli at Caff\u00e8 Casoni in Florence to strengthen his Americano by swapping the soda water for gin, circa 1919. The Americano itself (Campari, sweet vermouth, soda) was named for American tourists who liked strong drinks. The Negroni is equal parts of three spirits \u2014 a perfectly balanced bitter-sweet-spirit cocktail that spawned countless riffs: Boulevardier (bourbon), Mezcal Negroni, Paper Plane, etc.",
+  "tags": [
+    "stirred",
+    "bitter",
+    "aperitivo",
+    "equal-parts"
+  ]
+}

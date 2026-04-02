@@ -1,0 +1,34 @@
+{
+  "id": "moscow-mule",
+  "name": "Moscow Mule",
+  "spirit_base": "vodka",
+  "era": "1941",
+  "glass": "copper_mug",
+  "ice": "rocks",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Vodka"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Ginger beer"
+      }
+    ],
+    "method_detail": "Build in ice-filled copper mug. Add vodka and lime. Top with ginger beer. Stir briefly."
+  },
+  "garnish": "Lime wedge, mint sprig",
+  "history": "A marketing creation born of necessity in 1941: Smirnoff vodka owner John G. Martin partnered with a ginger beer company and a copper mug manufacturer, all struggling with unsold product. Together they created the Moscow Mule and had bartenders photograph celebrities drinking from copper mugs. It helped establish vodka in America. The copper mug is iconic but purely aesthetic \u2014 it does keep the drink colder.",
+  "tags": [
+    "built",
+    "tall",
+    "vodka",
+    "ginger"
+  ]
+}

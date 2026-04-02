@@ -1,0 +1,33 @@
+{
+  "id": "bees-knees",
+  "name": "Bee's Knees",
+  "spirit_base": "gin",
+  "era": "c. 1920s",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Honey syrup (3:1 honey to water)"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Lemon twist",
+  "history": "A Prohibition-era cocktail. 'The bee's knees' was 1920s slang for 'the best thing.' Honey syrup was used to mask the harsh taste of bathtub gin. The combination works so perfectly that it outlasted Prohibition. Pair honey with gin and lemon and you have something that will never go out of style.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "prohibition"
+  ]
+}

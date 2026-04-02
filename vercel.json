@@ -1,0 +1,8 @@
+{
+  "buildCommand": "python3 build.py",
+  "outputDirectory": "_site",
+  "rewrites": [
+    { "source": "/api/auth", "destination": "/api/auth/index" },
+    { "source": "/api/auth/callback", "destination": "/api/auth/callback" }
+  ]
+}

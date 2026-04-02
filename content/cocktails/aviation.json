@@ -1,0 +1,37 @@
+{
+  "id": "aviation",
+  "name": "Aviation",
+  "spirit_base": "gin",
+  "era": "c. 1916",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Luxardo Maraschino"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Cr\u00e8me de violette"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Cherry",
+  "history": "Hugo Ensslin created the Aviation at the Hotel Wallick in NYC, publishing it in 'Recipes for Mixed Drinks' (1916). The cr\u00e8me de violette gives it a distinctive pale sky-blue-lavender color \u2014 hence 'aviation.' The violet liqueur was impossible to find in the US for decades, causing the recipe to float around without it. Cr\u00e8me Yvette's return in 2009 revived the original recipe.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "floral"
+  ]
+}

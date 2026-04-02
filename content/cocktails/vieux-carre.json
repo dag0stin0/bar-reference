@@ -1,0 +1,46 @@
+{
+  "id": "vieux-carre",
+  "name": "Vieux Carr\u00e9",
+  "spirit_base": "whiskey",
+  "era": "c. 1938",
+  "glass": "rocks",
+  "ice": "big_rock",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Rye whiskey"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Cognac"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Sweet vermouth"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "B\u00e9n\u00e9dictine"
+      },
+      {
+        "amount": "2 dashes",
+        "ingredient": "Angostura bitters"
+      },
+      {
+        "amount": "2 dashes",
+        "ingredient": "Peychaud's bitters"
+      }
+    ],
+    "method_detail": "Stir with ice until well-chilled. Strain over large rock in rocks glass."
+  },
+  "garnish": "Lemon or orange peel",
+  "history": "Created by Walter Bergeron at the Carousel Bar in Hotel Monteleone in New Orleans, c. 1938. 'Vieux Carr\u00e9' means 'Old Square' \u2014 the French Quarter of New Orleans. The drink encapsulates New Orleans: American rye, French cognac, Italian vermouth, and French-Belgian B\u00e9n\u00e9dictine, seasoned with Angostura (Trinidad) and Peychaud's (New Orleans). A genuinely complex cocktail that rewards attention.",
+  "tags": [
+    "stirred",
+    "spirit-forward",
+    "new-orleans",
+    "complex"
+  ]
+}

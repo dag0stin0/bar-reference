@@ -1,0 +1,38 @@
+{
+  "id": "el-diablo",
+  "name": "El Diablo",
+  "spirit_base": "tequila",
+  "era": "c. 1946",
+  "glass": "highball",
+  "ice": "rocks",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Blanco tequila"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Cr\u00e8me de cassis"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Ginger beer"
+      }
+    ],
+    "method_detail": "Build in ice-filled highball. Add tequila, cassis, lime. Top with ginger beer. Stir gently."
+  },
+  "garnish": "Lime wedge",
+  "history": "Trader Vic published the El Diablo in 'Trader Vic's Bartender's Guide' (1947). It's one of the first prominent tequila cocktails to reach American audiences \u2014 tequila was exotic in the 1940s. Cassis and ginger beer make it vibrant and spicy-fruity.",
+  "tags": [
+    "built",
+    "tall",
+    "tequila",
+    "ginger"
+  ]
+}

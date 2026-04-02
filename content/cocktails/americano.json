@@ -1,0 +1,34 @@
+{
+  "id": "americano",
+  "name": "Americano",
+  "spirit_base": "other",
+  "era": "c. 1860s",
+  "glass": "highball",
+  "ice": "rocks",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Campari"
+      },
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Sweet vermouth"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Club soda"
+      }
+    ],
+    "method_detail": "Build in ice-filled highball. Add Campari and vermouth. Top with soda. Stir gently."
+  },
+  "garnish": "Orange slice",
+  "history": "The Americano \u2014 Campari, sweet vermouth, and soda \u2014 was invented at Gaspare Campari's bar in Milan in the 1860s. It was originally called the 'Milano-Torino' (Mi-To) after its ingredients' origins. The name 'Americano' came from its popularity with American tourists visiting Italy in the early 20th century. James Bond orders one in the first chapter of 'Casino Royale' before switching to the Martini.",
+  "tags": [
+    "built",
+    "tall",
+    "aperitivo",
+    "low-abv"
+  ]
+}

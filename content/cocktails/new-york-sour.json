@@ -1,0 +1,42 @@
+{
+  "id": "new-york-sour",
+  "name": "New York Sour",
+  "spirit_base": "whiskey",
+  "era": "c. 1880s",
+  "glass": "rocks",
+  "ice": "rocks",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Bourbon or rye"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Egg white (optional)"
+      },
+      {
+        "amount": "Float",
+        "ingredient": "Dry red wine (Malbec, Shiraz, or Merlot)"
+      }
+    ],
+    "method_detail": "Dry shake if using egg. Shake with ice. Strain over fresh ice in rocks glass. Gently float red wine on top over back of spoon."
+  },
+  "garnish": "Lemon wheel, cherry",
+  "history": "A Whiskey Sour with a red wine float. Known as the 'Continental Sour' in the 1880s Chicago cocktail scene, then later renamed. The wine float creates a stunning visual gradient and adds tannic complexity and fruit to the citrus-sweet-spirit base. It fell out of favor and was revived in the craft cocktail era.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "wine-float",
+    "whiskey"
+  ]
+}

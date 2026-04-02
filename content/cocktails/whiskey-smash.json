@@ -1,0 +1,42 @@
+{
+  "id": "whiskey-smash",
+  "name": "Whiskey Smash",
+  "spirit_base": "whiskey",
+  "era": "c. 1862",
+  "glass": "rocks",
+  "ice": "crushed",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Bourbon"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "6 leaves",
+        "ingredient": "Fresh mint"
+      },
+      {
+        "amount": "2 wedges",
+        "ingredient": "Lemon"
+      }
+    ],
+    "method_detail": "Muddle lemon wedges and mint with syrup. Add bourbon and lemon juice. Shake with ice. Fine strain over crushed ice in rocks glass."
+  },
+  "garnish": "Mint sprig, lemon wheel",
+  "history": "The Smash is one of the original cocktail categories from Jerry Thomas's 1862 manual \u2014 essentially a small Julep made with any spirit and seasonal fruit. Dale DeGroff revived the Whiskey Smash specifically in the 1990s at the Rainbow Room, setting the modern standard. It's a simpler, more casual sibling to the Mint Julep.",
+  "tags": [
+    "shaken",
+    "mint",
+    "citrus",
+    "crushed-ice"
+  ]
+}

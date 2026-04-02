@@ -1,0 +1,38 @@
+{
+  "id": "martinez",
+  "name": "Martinez",
+  "spirit_base": "gin",
+  "era": "c. 1887",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Old Tom or London Dry gin"
+      },
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Sweet vermouth"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Luxardo Maraschino"
+      },
+      {
+        "amount": "2 dashes",
+        "ingredient": "Angostura or orange bitters"
+      }
+    ],
+    "method_detail": "Stir with ice until well-chilled. Strain into chilled coupe. Twist lemon peel over the top."
+  },
+  "garnish": "Lemon twist",
+  "history": "Arguably the Martini's ancestor. Jerry Thomas published a Martinez recipe in 1887. It's sweeter and more complex than a dry Martini \u2014 sweet vermouth and maraschino alongside gin. The evolutionary path from Martinez to Martini involved replacing sweet vermouth with dry and dropping the maraschino, reflecting changing tastes toward drier, more spirit-forward drinks.",
+  "tags": [
+    "stirred",
+    "classic",
+    "spirit-forward",
+    "sweet"
+  ]
+}

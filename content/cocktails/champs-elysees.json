@@ -1,0 +1,42 @@
+{
+  "id": "champs-elysees",
+  "name": "Champs-\u00c9lys\u00e9es",
+  "spirit_base": "brandy",
+  "era": "c. 1925",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Cognac"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Green Chartreuse"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "1 dash",
+        "ingredient": "Angostura bitters"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Lemon twist",
+  "history": "From Nina Toye and Arthur H. Adair's 'Drinks Long and Short' (1925). It's a Sidecar variant with Chartreuse replacing the orange liqueur \u2014 the herbal complexity of Chartreuse plays surprisingly well against cognac. Named for the famous Parisian boulevard.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "cognac",
+    "herbal"
+  ]
+}

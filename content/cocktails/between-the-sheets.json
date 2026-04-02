@@ -1,0 +1,38 @@
+{
+  "id": "between-the-sheets",
+  "name": "Between the Sheets",
+  "spirit_base": "brandy",
+  "era": "c. 1930s",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1 oz",
+        "ingredient": "Cognac"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "White rum"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Cointreau"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lemon juice"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Lemon twist",
+  "history": "Attributed to Harry MacElhone at Harry's Bar in Paris in the 1930s. A variation on the Sidecar with rum added and the formula split equally among cognac, rum, and orange liqueur. The name is famously risqu\u00e9, which presumably helped its popularity. The interplay of rum and cognac with orange liqueur makes it more complex than a standard Sidecar.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "cognac",
+    "rum"
+  ]
+}

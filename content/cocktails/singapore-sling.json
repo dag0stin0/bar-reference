@@ -1,0 +1,54 @@
+{
+  "id": "singapore-sling",
+  "name": "Singapore Sling",
+  "spirit_base": "gin",
+  "era": "c. 1915",
+  "glass": "highball",
+  "ice": "rocks",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "1.5 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Cherry Heering"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Cointreau"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "B\u00e9n\u00e9dictine"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Fresh pineapple juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "1 dash",
+        "ingredient": "Angostura bitters"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Club soda"
+      }
+    ],
+    "method_detail": "Shake all except soda with ice. Strain into ice-filled highball. Top with soda."
+  },
+  "garnish": "Pineapple slice, cherry",
+  "history": "Ngiam Tong Boon created the Singapore Sling at the Long Bar of the Raffles Hotel in Singapore around 1915. It was designed to look like fruit punch so women in that era could drink cocktails without social judgment. The original recipe was lost, and the current 'official' recipe is a reconstruction. Somerset Maugham and other famous visitors made it legendary.",
+  "tags": [
+    "shaken",
+    "tall",
+    "tropical",
+    "historic"
+  ]
+}

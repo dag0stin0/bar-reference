@@ -1,0 +1,34 @@
+{
+  "id": "dark-and-stormy",
+  "name": "Dark and Stormy",
+  "spirit_base": "rum",
+  "era": "c. 20th century",
+  "glass": "highball",
+  "ice": "rocks",
+  "method": "built",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Dark rum (traditionally Gosling's Black Seal)"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Ginger beer"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      }
+    ],
+    "method_detail": "Fill highball with ice. Add ginger beer. Float dark rum on top. Add lime juice."
+  },
+  "garnish": "Lime wedge",
+  "history": "The national drink of Bermuda. Gosling's Brothers trademarked the name 'Dark 'n Stormy' for the combination of their Black Seal rum with ginger beer. The tradition grew from the Bermuda Royal Naval Club, where Gosling's rum and locally made ginger beer were combined by sailors. Serve with Gosling's if you want to respect the trademark; any dark rum works if you want to be practical.",
+  "tags": [
+    "built",
+    "tall",
+    "ginger",
+    "rum"
+  ]
+}

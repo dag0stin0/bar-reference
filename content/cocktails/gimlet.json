@@ -1,0 +1,33 @@
+{
+  "id": "gimlet",
+  "name": "Gimlet",
+  "spirit_base": "gin",
+  "era": "c. 1928",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe. Garnish with lime wheel or expressed lime peel."
+  },
+  "garnish": "Lime wheel",
+  "history": "The Gimlet's origins are naval \u2014 a British naval surgeon named Sir Thomas Desmond Gimlette allegedly popularized the mix of gin and lime juice as a way to get sailors to take their scurvy-preventing lime rations. Rose's Lime Cordial (preserved lime juice) was the original mixer. The modern craft version replaces Rose's with fresh lime and simple syrup. Raymond Chandler immortalized it in 'The Long Goodbye' (1953): 'A real gimlet is half gin and half Rose's lime juice and nothing else.'",
+  "tags": [
+    "shaken",
+    "citrus",
+    "classic"
+  ]
+}

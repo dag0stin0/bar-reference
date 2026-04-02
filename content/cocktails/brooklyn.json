@@ -1,0 +1,38 @@
+{
+  "id": "brooklyn",
+  "name": "Brooklyn",
+  "spirit_base": "whiskey",
+  "era": "c. 1908",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Rye whiskey"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Dry vermouth"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Maraschino liqueur"
+      },
+      {
+        "amount": "0.25 oz",
+        "ingredient": "Amer Picon (or sub Amaro Nonino/Ramazzotti + orange bitters)"
+      }
+    ],
+    "method_detail": "Stir with ice until well-chilled. Strain into chilled coupe."
+  },
+  "garnish": "Cherry",
+  "history": "A Manhattan variation published in Jacob Grohusko's 'Jack's Manual' (1908). The Brooklyn is the less famous sibling of the Manhattan \u2014 both named for New York boroughs \u2014 with dry vermouth instead of sweet and the addition of maraschino and the now-difficult-to-find Amer Picon. Picon approximations are common today. It's a drier, more austere cocktail than the Manhattan.",
+  "tags": [
+    "stirred",
+    "spirit-forward",
+    "whiskey",
+    "manhattan-family"
+  ]
+}

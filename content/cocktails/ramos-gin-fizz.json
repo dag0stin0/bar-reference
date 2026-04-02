@@ -1,0 +1,55 @@
+{
+  "id": "ramos-gin-fizz",
+  "name": "Ramos Gin Fizz",
+  "spirit_base": "gin",
+  "era": "c. 1888",
+  "glass": "highball",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lemon juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Simple syrup"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Heavy cream"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Egg white"
+      },
+      {
+        "amount": "3 drops",
+        "ingredient": "Orange blossom water"
+      },
+      {
+        "amount": "Top",
+        "ingredient": "Club soda"
+      }
+    ],
+    "method_detail": "Combine all except soda. Dry shake 2 minutes. Add ice, shake 10\u201312 minutes (or 5 minutes hard). The long shake emulsifies the cream and egg. Strain into chilled highball. Slowly top with soda \u2014 it lifts the foam above the rim."
+  },
+  "garnish": "None",
+  "history": "Henry C. Ramos invented this at his Imperial Cabinet Saloon in New Orleans in 1888. During Mardi Gras he employed 30+ bartenders just to shake these \u2014 each shake was 12 minutes long. Governor Huey Long had a Ramos Gin Fizz demonstration staged at a NYC hotel. It's labor-intensive and not for when you're in the weeds, but it's one of the great achievements in cocktail history.",
+  "tags": [
+    "shaken",
+    "fizz",
+    "cream",
+    "egg",
+    "new-orleans"
+  ]
+}

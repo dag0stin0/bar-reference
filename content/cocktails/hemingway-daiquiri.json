@@ -1,0 +1,37 @@
+{
+  "id": "hemingway-daiquiri",
+  "name": "Hemingway Daiquiri",
+  "spirit_base": "rum",
+  "era": "c. 1930s",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "White rum"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lime juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Fresh grapefruit juice"
+      },
+      {
+        "amount": "0.5 oz",
+        "ingredient": "Luxardo Maraschino"
+      }
+    ],
+    "method_detail": "Shake hard with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Lime wheel",
+  "history": "Also called the 'Papa Doble,' Hemingway ordered his daiquiris at La Floridita in Havana with double rum, no sugar, and grapefruit juice \u2014 he was diabetic. The modern version adds a small amount of maraschino for balance. Hemingway allegedly drank a dozen of these at a sitting.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "rum"
+  ]
+}

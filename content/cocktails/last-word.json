@@ -1,0 +1,37 @@
+{
+  "id": "last-word",
+  "name": "Last Word",
+  "spirit_base": "gin",
+  "era": "c. 1916",
+  "glass": "coupe",
+  "ice": "none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Gin"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Green Chartreuse"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Luxardo Maraschino"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lime juice"
+      }
+    ],
+    "method_detail": "Shake with ice. Double strain into chilled coupe."
+  },
+  "garnish": "Cherry or lime wheel",
+  "history": "Originated at the Detroit Athletic Club around 1916. It disappeared for decades until Murray Stenson rediscovered it at Zig Zag Caf\u00e9 in Seattle around 2004 \u2014 the 'Stenson Effect' spread it across the craft cocktail world almost overnight. It's a perfect equal-parts cocktail: four strong, distinct flavors (gin, herbal, sweet-nutty-cherry, citrus) that somehow balance completely.",
+  "tags": [
+    "shaken",
+    "equal-parts",
+    "herbal"
+  ]
+}

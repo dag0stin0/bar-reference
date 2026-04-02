@@ -1,0 +1,34 @@
+{
+  "id": "margarita",
+  "name": "Margarita",
+  "spirit_base": "tequila",
+  "era": "c. 1937\u20131948",
+  "glass": "rocks_or_coupe",
+  "ice": "rocks_or_none",
+  "method": "shaken",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Blanco tequila"
+      },
+      {
+        "amount": "1 oz",
+        "ingredient": "Cointreau or orange cura\u00e7ao"
+      },
+      {
+        "amount": "0.75 oz",
+        "ingredient": "Fresh lime juice"
+      }
+    ],
+    "method_detail": "Optional: salt rim the glass. Shake with ice. Strain into rocks glass over fresh ice, or double strain into chilled coupe."
+  },
+  "garnish": "Lime wheel, optional salt rim",
+  "history": "Multiple people claim to have invented the Margarita, which usually means nobody did \u2014 it evolved naturally. The most credible origin is 1938 when Carlos 'Danny' Herrera made it for dancer Marjorie King at Rancho La Gloria near Tijuana. The Daisy (margarita in Spanish) had been popular \u2014 tequila, lime, and orange liqueur is the tequila equivalent of a Daisy. It became the most-ordered cocktail in America by the 1990s.",
+  "tags": [
+    "shaken",
+    "citrus",
+    "tequila",
+    "classic"
+  ]
+}

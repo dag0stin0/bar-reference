@@ -1,0 +1,39 @@
+{
+  "id": "sazerac",
+  "name": "Sazerac",
+  "spirit_base": "brandy",
+  "era": "c. 1850",
+  "glass": "rocks",
+  "ice": "none",
+  "method": "stirred",
+  "spec": {
+    "ingredients": [
+      {
+        "amount": "2 oz",
+        "ingredient": "Rye whiskey (or cognac for original)"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "Simple syrup or sugar cube"
+      },
+      {
+        "amount": "4 dashes",
+        "ingredient": "Peychaud's bitters"
+      },
+      {
+        "amount": "Rinse",
+        "ingredient": "Absinthe or pastis"
+      }
+    ],
+    "method_detail": "Chill a rocks glass. Rinse with absinthe and discard (or keep if preferred). Stir rye, syrup, and bitters with ice until well-chilled. Strain into the rinsed, chilled glass (no ice). Express lemon peel over top, DO NOT add to glass."
+  },
+  "garnish": "Lemon peel (expressed over, then discarded or placed on rim)",
+  "history": "Possibly the oldest American cocktail \u2014 originated in New Orleans around 1850 at the Sazerac Coffee House. Antoine Amedie Peychaud, a Creole apothecary, served his homemade bitters in a cognac cocktail. The original used Sazerac de Forge et Fils cognac; after a phylloxera epidemic devastated French vineyards in the 1870s, rye whiskey became the standard. Named the official cocktail of New Orleans by the Louisiana legislature in 2008.",
+  "tags": [
+    "stirred",
+    "spirit-forward",
+    "absinthe-rinse",
+    "new-orleans",
+    "no-ice"
+  ]
+}
