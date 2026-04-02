@@ -2,7 +2,7 @@ backend:
   name: github
   repo: dag0stin0/bar-reference
   branch: main
-  base_url: https://YOUR_SITE.vercel.app
+  base_url: https://bar-reference.vercel.app
   auth_endpoint: api/auth
 
 publish_mode: editorial_workflow
